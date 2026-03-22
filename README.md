@@ -1,3 +1,3 @@
 # Ello my Friend!!
 
-github.com/DanielMayhan
+Visit my [Github](https://github.com/DanielMayhan)!
